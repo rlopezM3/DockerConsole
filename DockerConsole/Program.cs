@@ -7,7 +7,7 @@ namespace DockerConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Ross!!");
-            Console.WriteLine("Hello Ross!!");
+            Console.WriteLine("Hello From Docker!!");
         }
     }
 }
