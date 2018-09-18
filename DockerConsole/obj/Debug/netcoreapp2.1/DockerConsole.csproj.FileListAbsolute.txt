@@ -1,0 +1,11 @@
+C:\Users\rlopez\RiderProjects\DockerConsole\DockerConsole\bin\Debug\netcoreapp2.1\DockerConsole.deps.json
+C:\Users\rlopez\RiderProjects\DockerConsole\DockerConsole\bin\Debug\netcoreapp2.1\DockerConsole.runtimeconfig.json
+C:\Users\rlopez\RiderProjects\DockerConsole\DockerConsole\bin\Debug\netcoreapp2.1\DockerConsole.runtimeconfig.dev.json
+C:\Users\rlopez\RiderProjects\DockerConsole\DockerConsole\bin\Debug\netcoreapp2.1\DockerConsole.dll
+C:\Users\rlopez\RiderProjects\DockerConsole\DockerConsole\bin\Debug\netcoreapp2.1\DockerConsole.pdb
+C:\Users\rlopez\RiderProjects\DockerConsole\DockerConsole\obj\Debug\netcoreapp2.1\DockerConsole.csprojAssemblyReference.cache
+C:\Users\rlopez\RiderProjects\DockerConsole\DockerConsole\obj\Debug\netcoreapp2.1\DockerConsole.csproj.CoreCompileInputs.cache
+C:\Users\rlopez\RiderProjects\DockerConsole\DockerConsole\obj\Debug\netcoreapp2.1\DockerConsole.AssemblyInfoInputs.cache
+C:\Users\rlopez\RiderProjects\DockerConsole\DockerConsole\obj\Debug\netcoreapp2.1\DockerConsole.AssemblyInfo.cs
+C:\Users\rlopez\RiderProjects\DockerConsole\DockerConsole\obj\Debug\netcoreapp2.1\DockerConsole.dll
+C:\Users\rlopez\RiderProjects\DockerConsole\DockerConsole\obj\Debug\netcoreapp2.1\DockerConsole.pdb
